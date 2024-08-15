@@ -14,4 +14,4 @@ Live demo option coming soon!
 <br>
 "Leaflet" and "OpenStreetMap" to display the map with the location
 
-Design from FrontendMentor
+Design from FrontendMentor, coded by me
