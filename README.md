@@ -11,6 +11,7 @@ Live demo option coming soon!
 3. Enter an IP address or a domain into the input field
 
 "IP Geolocation" API to get info about the IP/Domain
+<br>
 "Leaflet" and "OpenStreetMap" to display the map with the location
 
 Design from FrontendMentor
