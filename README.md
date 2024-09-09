@@ -1,5 +1,4 @@
 # IP Address Tracker
-Live demo option coming soon!
 
 <b>Example screenshot:</b>
 <br>
